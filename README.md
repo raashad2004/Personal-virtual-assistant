@@ -101,7 +101,7 @@ Python-Voice-Assistant/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/python-voice-assistant.git
+   git clone https://github.com/raashad2004/Personal-virtual-assistant
    cd python-voice-assistant
    ```
 
