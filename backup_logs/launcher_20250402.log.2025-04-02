@@ -1,0 +1,62 @@
+2025-04-02 23:50:50,156 - Launcher - INFO - [run.py:62] - ==================================================
+2025-04-02 23:50:50,157 - Launcher - INFO - [run.py:63] -              Voice Assistant Launcher
+2025-04-02 23:50:50,157 - Launcher - INFO - [run.py:64] - ==================================================
+2025-04-02 23:50:50,158 - Launcher - INFO - [run.py:65] - Starting launcher checks
+2025-04-02 23:50:50,158 - Launcher - INFO - [run.py:327] - Starting launcher checks
+2025-04-02 23:50:50,159 - Launcher - INFO - [run.py:79] - Checking Python version: 3.12.1
+2025-04-02 23:50:50,160 - Launcher - WARNING - [run.py:90] - Python 3.12.1 detected - additional compatibility measures enabled
+2025-04-02 23:50:50,174 - Launcher - INFO - [run.py:99] - Applying pkgutil.ImpImporter patch for Python 3.12+
+2025-04-02 23:50:50,174 - Launcher - INFO - [run.py:105] - Python version check passed: 3.12.1
+2025-04-02 23:50:50,174 - Launcher - INFO - [run.py:257] - Checking required directories...
+2025-04-02 23:50:50,175 - Launcher - INFO - [run.py:306] - Checking required module files...
+2025-04-02 23:50:50,233 - Launcher - INFO - [run.py:201] - Detected operating system: Windows
+2025-04-02 23:50:50,233 - Launcher - INFO - [run.py:206] - Windows version: 10.0.26100
+2025-04-02 23:50:50,234 - Launcher - INFO - [run.py:135] - Applying Python 3.12+ specific package requirements
+2025-04-02 23:50:50,234 - Launcher - INFO - [run.py:150] - Checking required packages...
+2025-04-02 23:50:50,236 - Launcher - INFO - [run.py:156] - Checking optional packages...
+2025-04-02 23:50:50,238 - Launcher - ERROR - [run.py:347] - Error during Required Packages check: No module named 'setuptools>=68'
+2025-04-02 23:50:50,238 - Launcher - INFO - [run.py:229] - Checking microphone availability...
+2025-04-02 23:50:50,988 - Launcher - INFO - [run.py:237] - Microphone initialized successfully
+2025-04-02 23:50:51,103 - Launcher - WARNING - [run.py:352] - Some checks failed. Application may not function correctly.
+2025-04-02 23:50:55,247 - Launcher - INFO - [run.py:362] - All checks completed, launching main application
+2025-04-02 23:58:05,452 - Launcher - INFO - [run.py:62] - ==================================================
+2025-04-02 23:58:05,452 - Launcher - INFO - [run.py:63] -              Voice Assistant Launcher
+2025-04-02 23:58:05,452 - Launcher - INFO - [run.py:64] - ==================================================
+2025-04-02 23:58:05,453 - Launcher - INFO - [run.py:65] - Starting launcher checks
+2025-04-02 23:58:05,453 - Launcher - INFO - [run.py:327] - Starting launcher checks
+2025-04-02 23:58:05,454 - Launcher - INFO - [run.py:79] - Checking Python version: 3.12.1
+2025-04-02 23:58:05,454 - Launcher - WARNING - [run.py:90] - Python 3.12.1 detected - additional compatibility measures enabled
+2025-04-02 23:58:05,460 - Launcher - INFO - [run.py:99] - Applying pkgutil.ImpImporter patch for Python 3.12+
+2025-04-02 23:58:05,460 - Launcher - INFO - [run.py:105] - Python version check passed: 3.12.1
+2025-04-02 23:58:05,460 - Launcher - INFO - [run.py:257] - Checking required directories...
+2025-04-02 23:58:05,461 - Launcher - INFO - [run.py:306] - Checking required module files...
+2025-04-02 23:58:05,568 - Launcher - INFO - [run.py:201] - Detected operating system: Windows
+2025-04-02 23:58:05,568 - Launcher - INFO - [run.py:206] - Windows version: 10.0.26100
+2025-04-02 23:58:05,569 - Launcher - INFO - [run.py:135] - Applying Python 3.12+ specific package requirements
+2025-04-02 23:58:05,569 - Launcher - INFO - [run.py:150] - Checking required packages...
+2025-04-02 23:58:05,571 - Launcher - INFO - [run.py:156] - Checking optional packages...
+2025-04-02 23:58:05,573 - Launcher - ERROR - [run.py:347] - Error during Required Packages check: No module named 'setuptools>=68'
+2025-04-02 23:58:05,574 - Launcher - INFO - [run.py:229] - Checking microphone availability...
+2025-04-02 23:58:06,367 - Launcher - INFO - [run.py:237] - Microphone initialized successfully
+2025-04-02 23:58:06,473 - Launcher - WARNING - [run.py:352] - Some checks failed. Application may not function correctly.
+2025-04-02 23:58:18,348 - Launcher - INFO - [run.py:362] - All checks completed, launching main application
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:62] - ==================================================
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:63] -              Voice Assistant Launcher
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:64] - ==================================================
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:65] - Starting launcher checks
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:349] - Starting launcher checks
+2025-04-02 23:59:51,615 - Launcher - INFO - [run.py:79] - Checking Python version: 3.12.1
+2025-04-02 23:59:51,616 - Launcher - WARNING - [run.py:90] - Python 3.12.1 detected - additional compatibility measures enabled
+2025-04-02 23:59:51,621 - Launcher - INFO - [run.py:99] - Applying pkgutil.ImpImporter patch for Python 3.12+
+2025-04-02 23:59:51,621 - Launcher - INFO - [run.py:105] - Python version check passed: 3.12.1
+2025-04-02 23:59:51,622 - Launcher - INFO - [run.py:279] - Checking required directories...
+2025-04-02 23:59:51,623 - Launcher - INFO - [run.py:328] - Checking required module files...
+2025-04-02 23:59:51,683 - Launcher - INFO - [run.py:223] - Detected operating system: Windows
+2025-04-02 23:59:51,683 - Launcher - INFO - [run.py:228] - Windows version: 10.0.26100
+2025-04-02 23:59:51,683 - Launcher - INFO - [run.py:157] - Applying Python 3.12+ specific package requirements
+2025-04-02 23:59:51,684 - Launcher - INFO - [run.py:172] - Checking required packages...
+2025-04-02 23:59:51,685 - Launcher - INFO - [run.py:178] - Checking optional packages...
+2025-04-02 23:59:51,845 - Launcher - INFO - [run.py:124] - Found setuptools version 78.1.0
+2025-04-02 23:59:51,846 - Launcher - WARNING - [run.py:185] - Missing required packages: python-decouple, SpeechRecognition, Pillow
+2025-04-02 23:59:59,125 - Launcher - INFO - [run.py:192] - Successfully installed required packages
+2025-04-02 23:59:59,125 - Launcher - INFO - [run.py:204] - Missing optional packages: python-dotenv

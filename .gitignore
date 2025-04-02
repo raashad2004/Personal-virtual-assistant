@@ -1,0 +1,86 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+virtualenv/
+
+# Distribution and build files
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Log files
+logs/
+*.log
+log/
+assistant.log
+
+# User data and sensitive information
+.env
+data/
+config.ini
+tokens/
+credentials.json
+
+# Audio and media files
+audio/recordings/
+*.mp3
+*.wav
+*.ogg
+*.aac
+media/temp/
+
+# Screenshots
+screenshots/
+
+# Project specific
+music/
+!music/.gitkeep
+audio/
+!audio/.gitkeep
+screenshots/
+!screenshots/.gitkeep
+
+# IDE specific folders and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Custom
+.qodo

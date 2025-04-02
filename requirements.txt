@@ -1,0 +1,40 @@
+# Core dependencies
+pyttsx3>=2.90
+SpeechRecognition>=3.8.1
+pygame>=2.0.0
+requests>=2.25.1
+python-decouple>=3.5
+Pillow>=8.3.1
+PyAudio>=0.2.13
+
+# Internet & APIs
+wikipedia==1.4.0
+# pywhatkit has compatibility issues with Python 3.12+
+# Install manually if needed
+newsapi-python==0.2.7
+pyowm==3.3.0
+tmdbv3api==1.7.7
+
+# GUI & Visual
+tk==0.1.0
+pygetwindow==0.0.9
+
+# Optional dependencies (but recommended)
+python-dotenv>=0.19.1
+psutil>=5.8.0
+pyautogui>=0.9.53
+googletrans>=4.0.0-rc1
+gtts>=2.2.2
+
+# For building executable
+pyinstaller>=6.0.0
+
+# Optional/Development Dependencies
+black==23.11.0
+flake8==6.1.0
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Python 3.12+ specific requirements
+setuptools>=68.0.0; python_version >= "3.12"
+pywhatkit>=5.4.0; python_version < "3.12"
